@@ -1,0 +1,7 @@
+Develop a Java program to create a class Reservation in Railway Reservation Management System with methods to reserve seats. 
+The application should:
+1. Handle invalid seat numbers.
+2. Handle incorrect user input.
+3. Throw a custom exception SeatAlreadyBookedException.
+4. Use multiple catch clauses. 
+5. Use finally to display transaction completion status. 
